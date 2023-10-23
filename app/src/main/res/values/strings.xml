@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">New colors</string>
+    <string name="fond">Fond</string>
+    <string name="enter_color">\n</string>
+    <string name="button">Button</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="Button">Button</string>
+    <string name="Back">Restart</string>
+    <string name="Backe">Back</string>
+</resources>
