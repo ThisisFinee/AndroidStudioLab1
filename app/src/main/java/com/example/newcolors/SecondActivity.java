@@ -18,7 +18,6 @@ public class SecondActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_second);
 
-        Toast.makeText(getApplicationContext(), "Gay activated", Toast.LENGTH_LONG).show();
         Bundle arguments = getIntent().getExtras();
         ConstraintLayout layout = findViewById(R.id.layout);
     if (arguments!=null){
